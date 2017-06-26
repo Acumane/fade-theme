@@ -1,8 +1,8 @@
 {
     "name": "fade-theme",
     "displayName": "Fade",
-    "description": "Medium-contrast dark theme",
-    "version": "0.1.0",
+    "description": "A medium-contrast dark theme",
+    "version": "0.1.1",
     "publisher": "dodheim",
     "license": "SEE LICENSE IN LICENSE",
     "engines": { "vscode": "^1.12.0" },
