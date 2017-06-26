@@ -3,10 +3,10 @@ A medium-contrast dark theme for VSCode
 
 # Screenshots
 Rust:  
-[![Rust screenshot](https://raw.githubusercontent.com/dodheim/fade-theme/master/rust-small.png)](https://raw.githubusercontent.com/dodheim/fade-theme/master/rust-full.png)
+[![Rust screenshot](https://raw.githubusercontent.com/dodheim/fade-theme/master/rust-sm.png)](https://raw.githubusercontent.com/dodheim/fade-theme/master/rust-lg.png)
 
 JSON:  
-[![JSON screenshot](https://raw.githubusercontent.com/dodheim/fade-theme/master/json-small.png)](https://raw.githubusercontent.com/dodheim/fade-theme/master/json-full.png)
+[![JSON screenshot](https://raw.githubusercontent.com/dodheim/fade-theme/master/json-sm.png)](https://raw.githubusercontent.com/dodheim/fade-theme/master/json-lg.png)
 
 # Notes
 The following colors are unchanged from 'Default Dark+':
