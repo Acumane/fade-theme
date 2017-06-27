@@ -2,7 +2,7 @@
     "name": "fade-theme",
     "displayName": "Fade",
     "description": "A medium-contrast dark theme",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "publisher": "dodheim",
     "license": "MIT",
     "engines": { "vscode": "^1.12.0" },
