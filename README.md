@@ -1,5 +1,7 @@
 # Fade
-A medium-contrast dark theme for VSCode
+A medium-contrast dark theme for VSCode; fullscreen is recommended.
+
+I endorse [Nomo Dark Icon Theme](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-icontheme-nomo-dark) for icons to complement Fade.
 
 # Screenshots
 Rust:  
