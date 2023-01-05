@@ -2,7 +2,7 @@
     "name": "Fade",
     "type": "dark",
     "colors": {
-        "editor.background": "#101010",
+        "editor.background": "#111012",
         "editor.foreground": "#d0d0d0",
         "editor.findMatchBackground": "#264f78",
         "editor.findMatchHighlightBackground": "#782525",
@@ -11,11 +11,17 @@
         "editorBracketMatch.background": "#264f78",
         "editorBracketMatch.border": "#3d80c2",
         "editorLineNumber.foreground": "#909090",
-        "editorRuler.foreground": "#1a3551",
+        "editorRuler.foreground": "#202020",
         "editorWidget.background": "#1e1e20",
         "peekViewEditor.background": "#000f1a",
-        "statusBar.background": "#474747",
+        "statusBar.background": "#2e3e5b",
+        "statusBar.border": "#5673b5",
+        "statusBarItem.remoteBackground": "#2f77cc",
         "statusBar.noFolderBackground": "#21567a",
+
+        "notebook.cellEditorBackground": "#111012",
+		"notebook.outputContainerBackgroundColor": "#080808",
+		"notebook.outputContainerBorderColor": "#252526",
 
         "activityBarBadge.background": "#007acc",           // default
         "editor.inactiveSelectionBackground": "#3a3d41",    // default
@@ -184,8 +190,13 @@
             }
         },
         {
-            "name": "brackets of XML/HTML tags",
-            "scope": "punctuation.definition.tag",
+            "name": "brackets of tags",
+            "scope": [
+                "punctuation.definition.tag",
+                "punctuation.definition.link.description.begin.markdown",
+                "punctuation.definition.link.description.end.markdown",
+                "punctuation.definition.metadata.markdown"
+            ],
             "settings": {
                 "foreground": "#909090"
             }

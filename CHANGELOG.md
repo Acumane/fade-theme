@@ -1,8 +1,6 @@
-## [0.2.0]
-- TODO
-
-## [0.1.1-5]
-- README and screenshot improvements; no actual theme changes
-
-## [0.1.0]
-- Initial release
+## **[0.2.0]**
+- Changes over `dodheim/fade-theme`:
+	- Colored statusBar
+	- Cooler editor background
+	- Consistent notebook editor theme
+	- Consistent tags in Markdown

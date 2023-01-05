@@ -3,7 +3,7 @@
     "displayName": "Fade",
     "description": "A medium-contrast dark theme",
     "version": "0.2.0",
-    "publisher": "dodheim",
+    "publisher": "Acumane",
     "license": "MIT",
     "engines": { "vscode": "^1.12.0" },
     "categories": [ "Themes" ],
@@ -17,6 +17,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/dodheim/fade-theme"
+        "url": "https://github.com/Acumane/fade-theme"
     }
 }
